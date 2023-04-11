@@ -8,6 +8,8 @@ Peter Tian, Enya Tan, Kelly Chen
 
 ## Data
 
+https://www.kaggle.com/datasets/zynicide/wine-reviews
+
 ## Models
 
 ## Results
