@@ -68,7 +68,7 @@ The mT5 model uses a basic encoder-decoder Transformer architecture and is train
 ## Resource Links
 mT5-Small (300 million parameters): [gs://t5-data/pretrained_models/mt5/small](https://console.cloud.google.com/storage/browser/t5-data/pretrained_models/mt5/small)
 
-mT5-Base (580 million parameters): gs://t5-data/pretrained_models/mt5/base(https://console.cloud.google.com/storage/browser/t5-data/pretrained_models/mt5/base)
+mT5-Base (580 million parameters): [gs://t5-data/pretrained_models/mt5/base](https://console.cloud.google.com/storage/browser/t5-data/pretrained_models/mt5/base)
 
 
 https://arxiv.org/pdf/2010.11934.pdf
