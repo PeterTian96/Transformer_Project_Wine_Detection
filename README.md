@@ -50,7 +50,7 @@ T5 is a massively multilingual language model that closely follows the recipe of
 
 The mT5 model uses a basic encoder-decoder Transformer architecture and is trained on a masked language modeling "span-corruption" objective. It is pre-trained on unlabeled data only and is available in different sizes, ranging from 60 million to 11 billion parameters
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400&psig=AOvVaw06ZQ1iKTduHKpfd13fzN6K&ust=1681490537463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi4zMOmp_4CFQAAAAAdAAAAABAQ![image](https://user-images.githubusercontent.com/89152255/231827987-1c044a4e-0262-41fb-8b5a-1eb881be54c2.png)
+[image](https://user-images.githubusercontent.com/89152255/231827987-1c044a4e-0262-41fb-8b5a-1eb881be54c2.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMT5-encoder-model-overview-with-additional-fully-connected-head_fig1_363234400&psig=AOvVaw06ZQ1iKTduHKpfd13fzN6K&ust=1681490537463000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi4zMOmp_4CFQAAAAAdAAAAABAQ)
 
 
 ## Results
