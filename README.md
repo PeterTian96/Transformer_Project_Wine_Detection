@@ -44,16 +44,9 @@ The dataset used for this project is the [Wine Reviews](https://www.kaggle.com/d
 
 **Winery**: The winery that produced the wine.
 
-| Country | Description                                                                                      | Designation                  | Points | Price | Province     | Region_1            | Region_2 | Taster Name      | Taster Twitter Handle | Title                                                          | Variety           | Winery               |
+| Country | Description| Designation | Points | Price | Province | Region_1| Region_2 | Taster Name| Taster Twitter Handle | Title| Variety| Winery|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Italy   | Aromas include tropical fruit, broom, brimstone and dried herb.                                  | Vulkà Bianco                 | 87     |       | Sicily & Sardinia | Etna                |          | Kerin O’Keefe   | @kerinokeefe         | Nicosia 2013 Vulkà Bianco  (Etna)                                | White Blend        | Nicosia              |
-| Portugal| This is ripe and fruity, a wine that is smooth while still structured.                           | Avidagos                     | 87     | 15    | Douro        |                     |          | Roger Voss      | @vossroger           | Quinta dos Avidagos 2011 Avidagos Red (Douro)                     | Portuguese Red    | Quinta dos Avidagos |
-| US      | Tart and snappy, the flavors of lime flesh and rind dominate.                                   |                              | 87     | 14    | Oregon       | Willamette Valley   | Willamette Valley | Paul Gregutt    | @paulgwine           | Rainstorm 2013 Pinot Gris (Willamette Valley)                    | Pinot Gris        | Rainstorm           |
-| US      | Pineapple rind, lemon pith and orange blossom start off the aromas.                             | Reserve Late Harvest         | 87     | 13    | Michigan     | Lake Michigan Shore |          | Alexander Peartree |                       | St. Julian 2013 Reserve Late Harvest Riesling (Lake Michigan Shore) | Riesling          | St. Julian          |
-| US      | Much like the regular bottling from 2012, this comes across as rather rough and tannic...        | Vintner's Reserve Wild Child | 87     | 65    | Oregon       | Willamette Valley   | Willamette Valley | Paul Gregutt    | @paulgwine           | Sweet Cheeks 2012 Vintner's Reserve Wild Child Block Pinot Noir... | Pinot Noir        | Sweet Cheeks        |
-| Spain   | Blackberry and raspberry aromas show a typical Navarran whiff of green herbs and, in this...     | Ars In Vitro                 | 87     | 15    | Northern Spain| Navarra             |          | Michael Schachner| @wineschach          | Tandem 2011 Ars In Vitro Tempranillo-Merlot (Navarra)             | Tempranillo-Merlot| Tandem               |
-| Italy   | Here's a bright, informal red that opens with aromas of candied berry, white pepper and...       | Belsito                      | 87     | 16    | Sicily & Sardinia | Vittoria            |          | Kerin O’Keefe   | @kerinokeefe         | Terre di Giurfo 2013 Belsito Frappato (Vittoria)                 | Frappato          | Terre di Giurfo     |
-| France  | This dry and restrained wine offers spice in profusion. Balanced with acidity and a firm...     |                              | 87     | 24    | Alsace       |
+
 
 ## Models
 
