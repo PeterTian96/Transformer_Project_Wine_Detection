@@ -53,6 +53,12 @@ The mT5 model uses a basic encoder-decoder Transformer architecture and is train
 ![image](https://user-images.githubusercontent.com/89152255/231828417-460aebdb-2367-49a7-aa9c-e58c7002c5c8.png)
 
 
+**mT5-small**
+
+**mT5-base**
+
+
+
 ## Results
 
 ## Conclusion
