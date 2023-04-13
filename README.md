@@ -48,10 +48,9 @@ The dataset used for this project is the [Wine Reviews](https://www.kaggle.com/d
 
 T5 is a massively multilingual language model that closely follows the recipe of the T5 model, which uses a unified "text-to-text" format for all text-based NLP problems. mT5 is pre-trained on a large-scale multilingual corpus called mC4, which covers 101 languages and is an extended version of the C4 pre-training dataset. 
 
-The mT5 model uses a basic encoder-decoder Transformer architecture and is trained on a masked language modeling "span-corruption" objective. It is pre-trained on unlabeled data only and is available in different sizes, ranging from 60 million to 11 billion parameters
+The mT5 model uses a basic encoder-decoder Transformer architecture and is trained on a masked language modeling "span-corruption" objective. It is pre-trained on unlabeled data only and is available in different sizes, ranging from 60 million to 11 billion parameters.
 
-
-![Unknown](https://user-images.githubusercontent.com/89152255/231828417-460aebdb-2367-49a7-aa9c-e58c7002c5c8.png)
+![image](https://user-images.githubusercontent.com/89152255/231828417-460aebdb-2367-49a7-aa9c-e58c7002c5c8.png)
 
 
 ## Results
