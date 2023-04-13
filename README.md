@@ -68,7 +68,9 @@ The mT5 model uses a basic encoder-decoder Transformer architecture and is train
 
 **mT5-Base (580 million parameters)**
 
+## Demo Link
 
+Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z3kgRHHv-AkuKPYGkLfBWbfFuSDUAeYh?usp=sharing
 
 ## Results
 
