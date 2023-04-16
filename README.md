@@ -1,6 +1,6 @@
 # Wine Variety Recommendation Using mT5
 
-DS 5899 Final Project
+# DS 5899 Final Project
 
 **Team Member**: Enya Tan, Kelly Chen, Peter Tian
 
