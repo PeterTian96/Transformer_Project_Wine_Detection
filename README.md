@@ -95,6 +95,8 @@ Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z
 
 ## Critical Analysis
 
+1. One limitation is the reliance on wine descriptions and ratings as the only input features for the model. While these are certainly important factors in wine recommendation, there may be other relevant features that are not captured in the dataset. Incorporating additional features or data sources could potentially improve the accuracy and relevance of the recommendations.
+
 ## Resource Links
 mT5-Small (300 million parameters): [gs://t5-data/pretrained_models/mt5/small](https://console.cloud.google.com/storage/browser/t5-data/pretrained_models/mt5/small)
 
