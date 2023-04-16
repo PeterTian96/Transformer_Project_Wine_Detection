@@ -165,7 +165,7 @@ In conclusion, the mT5-Small model is a better choice for the wine variety recom
 
 [4] mT5-Base (580 million parameters): [gs://t5-data/pretrained_models/mt5/base](https://console.cloud.google.com/storage/browser/t5-data/pretrained_models/mt5/base)
 
-[5] https://arxiv.org/pdf/2010.11934.pdf
+[5] mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer： https://arxiv.org/pdf/2010.11934.pdf
 
 [6] https://github.com/google-research/multilingual-t5
 
