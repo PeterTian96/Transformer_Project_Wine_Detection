@@ -153,7 +153,7 @@ In conclusion, the mT5-Small model is a better choice for the wine variety recom
 
 2. Timeliness of the dataset - the information in the dataset is previous released that may not represent current market and consumer preferences. To better match current trends and preferences, it is necessary to collect and use the latest updated information.
 
-3. Due to storage limitations, we did not test the results on all mt5 models, but only selected the small and base models to generate the results. If we could use all of the mt5 models, the impact of a larger number of parameters on the results could be analyzed, which would make the experiment more complete.
+3. Due to storage limitations, we did not test the results on all mt5 models, but only selected the small and base models to generate the results. In the future work, if we could use all of the mt5 models, the impact of a larger number of parameters on the results could be analyzed, which would make the experiment more complete.
 
 ## Resource Links
 
