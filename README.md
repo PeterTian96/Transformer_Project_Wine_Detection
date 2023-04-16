@@ -74,11 +74,15 @@ Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z
 
 ## Results
 
+**validation_loss** measures the error of the model during training on a validation set. It is often used as an indicator of how well the model is able to fit the training data. The goal is to **minimize the loss during training**, which usually results in better performance on new data.
+
+**validation_rouge** is a metric used to evaluate the quality of text summarization models. ROUGE stands for "Recall-Oriented Understudy for Gisting Evaluation" and it measures the overlap between the generated summary and the reference summary. Specifically, validation_rouge calculates the F1 score between the generated summary and the reference summary. **A higher validation_rouge score indicates better performance of the model in generating high-quality summaries.**
+
 **mT5-Small (300 million parameters)**
 | Metric | Value |
 | --- | --- |
-| validation_loss | 13.628491401672363 |
-| validation_rouge | 63.2454 |
+| validation_loss | 0.41913044452667236 |
+| validation_rouge | 83.9338|
 
 **mT5-Base (580 million parameters)**
 | Metric | Value |
