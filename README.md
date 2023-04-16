@@ -2,7 +2,7 @@
 
 DS 5899 Final Project
 
-Peter Tian, Enya Tan, Kelly Chen
+**Team Member**: Enya Tan, Kelly Chen, Peter Tian
 
 ## Overview
 
