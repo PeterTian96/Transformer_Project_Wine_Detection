@@ -167,6 +167,6 @@ In conclusion, the mT5-Small model is a better choice for the wine variety recom
 
 [5] mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer： https://arxiv.org/pdf/2010.11934.pdf
 
-[6] https://github.com/google-research/multilingual-t5
+[6] mT5: Multilingual T5： https://github.com/google-research/multilingual-t5
 
 ## Video Recording
