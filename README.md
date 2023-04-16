@@ -141,6 +141,12 @@ Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z
 
 ## Conclusions
 
+Based on the results, it can be concluded that the mT5-Small model outperforms the mT5-Base model for the wine variety recommendation task. The mT5-Small model has a lower validation loss and a higher validation ROUGE score compared to the mT5-Base model. The lower validation loss indicates that the mT5-Small model is better at fitting the training data, while the higher validation ROUGE score suggests that it generates higher-quality summaries, which in this case means more accurate wine variety recommendations.
+
+There could be several reasons for the difference in performance between the two models. It is possible that the mT5-Base model, despite having more parameters, overfits the training data due to its larger size and complexity. Additionally, the mT5-Small model may be more suitable for the wine recommendation task, as it might better capture the essential information needed to make accurate predictions without being overwhelmed by the large number of parameters.
+
+In conclusion, the mT5-Small model is a better choice for the wine variety recommendation system using the Wine Reviews dataset. However, further experimentation with other models, hyperparameters, and model sizes may still yield better results.
+
 ## Critical Analysis
 
 1. One limitation is the reliance on wine descriptions and ratings as the only input features for the model. While these are certainly important factors in wine recommendation, there may be other relevant features that are not captured in the dataset. Incorporating additional features or data sources could potentially improve the accuracy and relevance of the recommendations.
