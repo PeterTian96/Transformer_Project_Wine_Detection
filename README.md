@@ -74,6 +74,19 @@ Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z
 
 ## Results
 
+**mT5-Small (300 million parameters)**
+| Metric | Value |
+| --- | --- |
+| validation_loss | 13.628491401672363 |
+| validation_rouge | 63.2454 |
+
+**mT5-Base (580 million parameters)**
+| Metric | Value |
+| --- | --- |
+| validation_loss | 13.628491401672363 |
+| validation_rouge | 63.2454 |
+
+
 ## Conclusion
 
 ## Critical Analysis
