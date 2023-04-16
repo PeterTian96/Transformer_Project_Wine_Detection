@@ -139,11 +139,15 @@ Try the wine recommendar by yourself: https://colab.research.google.com/drive/1Z
 | validation_rouge | 63.2454 |
 
 
-## Conclusion
+## Conclusions
 
 ## Critical Analysis
 
 1. One limitation is the reliance on wine descriptions and ratings as the only input features for the model. While these are certainly important factors in wine recommendation, there may be other relevant features that are not captured in the dataset. Incorporating additional features or data sources could potentially improve the accuracy and relevance of the recommendations.
+
+2. Timeliness of the dataset - the information in the dataset is previous released that may not represent current market and consumer preferences. To better match current trends and preferences, it is necessary to collect and use the latest updated information.
+
+3. Due to storage limitations, we did not test the results on all mt5 models, but only selected the small and base models to generate the results. If we could use all of the mt5 models, the impact of a larger number of parameters on the results could be analyzed, which would make the experiment more complete.
 
 ## Resource Links
 
