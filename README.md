@@ -149,7 +149,7 @@ In conclusion, the mT5-Small model is a better choice for the wine variety recom
 
 ## Critical Analysis
 
-1. One limitation is the reliance on wine descriptions and ratings as the only input features for the model. While these are certainly important factors in wine recommendation, there may be other relevant features that are not captured in the dataset. Incorporating additional features or data sources could potentially improve the accuracy and relevance of the recommendations.
+1. One limitation is the reliance on wine descriptions as the only input features for the model. While these are certainly important factors in wine recommendation, there may be other relevant features that are not captured in the dataset. Incorporating additional features or data sources could potentially improve the accuracy and relevance of the recommendations.
 
 2. Timeliness of the dataset - the information in the dataset is previous released that may not represent current market and consumer preferences. To better match current trends and preferences, it is necessary to collect and use the latest updated information.
 
