@@ -170,3 +170,5 @@ In conclusion, the mT5-Small model is a better choice for the wine variety recom
 [6] mT5: Multilingual T5： https://github.com/google-research/multilingual-t5
 
 ## Video Recording
+
+Check our Video: https://youtu.be/dZpouAU8h38
